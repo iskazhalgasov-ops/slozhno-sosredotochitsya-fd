@@ -8,6 +8,8 @@
   --accent-color: rgba(255, 0, 112, 1);
   --title-color: rgba(219, 0, 255, 1);
   --border-color: rgba(255, 0, 112, 0.4);
+  --title-decor-color: rgba(0, 0, 40, 1);
+  --decoration-zone-color: rgba(255, 0, 112, 1);
 
-  --header-bg-image: url("../images/cover-image-dark.png");
+  --bg-image: url("../images/cover-image-dark.png");
 }
